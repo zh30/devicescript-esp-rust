@@ -1,8 +1,8 @@
 {
     "version": "0.0.0",
-    "private": "Please use 'yarn devs add npm' to make this a publishable package",
+    "private": true,
     "devDependencies": {
-        "@devicescript/cli": "^2.14.13",
+        "@devicescript/cli": "^2.16.4",
         "serialport": "^11.0.1"
     },
     "scripts": {
